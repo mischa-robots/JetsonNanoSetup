@@ -1,2 +1,3 @@
 # JetsonNanoSetup
-Jetson Nano Setup scripts
+
+This repo contains several Jetson Nano Setup helper scripts.
